@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "dangbaongoc6a3",
-    introTitle: 'Tên người yêu bạn',
+    introTitle: 'Đặng Bảo Ngọc',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
